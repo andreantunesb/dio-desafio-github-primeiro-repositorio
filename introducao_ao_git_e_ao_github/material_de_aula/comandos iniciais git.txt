@@ -1,0 +1,59 @@
+Incluir arquivos para monitorar e alterações:
+$ git add .
+
+Submeter alterações incluídas no monitoramento: $ git commit -m "comentário"
+//comentário relevante sobre a inclusão nova no repositório.
+
+Empurrar alterações locais para o servidor remoto:
+$ git push origin main
+//faz upload das alterações para o github
+
+Verificar versão: $ git --version
+
+Verificar configurações: $ git config --list
+
+Apontar repositório local para repositório remoto no Github: $ git remote add origin git@github.com:andreantunesb/livro-receitas.git
+//o nome "origin" no comando é um alias para o endereço do repositório remoto, poder ser modificado, mas o padrão é origin.
+
+Empurrar repositório local para remoto: $ git push origin master
+//envia da maquina local para remota
+
+Listar as listas de repositórios remotos cadastrados: $ git remote -v
+
+Criação de chaves ssh: $ ssh-keygen -t ed25519 -C andreantunesb@gmail.com
+//vai gerar as chaves públicas e privadas ssh
+
+Ler chave publica para instalação no github: $ cat id_ed25519.pub
+//usa cat para ler o arquivo dentro do terminal
+
+eval $(ssh-agent -s)
+
+ssh-add id_ed25519
+
+Clonar repositório do Github: $ git clone git@github.com:andreantunesb/dio_bootcamp_java.git
+
+git commit dio_bootcamp_java
+
+Setar e-mail padrão: $ git config --global user.email "andreantunesb@gmail.com"
+
+Setar nome de usuário padrão: $ git config --global user.name andre
+
+git add *
+
+git commit -m "commit inicial"
+
+git status
+
+git add strogonoff.md receitas/
+
+git commit -m "cria pasta receitas, move arquivo para receitas"
+
+git commit -m "Adiciona Index"
+
+Limpar configurações de usuário e e-mail: $
+
+
+
+
+
+
