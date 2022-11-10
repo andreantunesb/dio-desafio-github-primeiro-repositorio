@@ -1,2 +1,2 @@
 # NOTEPADNEXT
-Clone do ótimo notepad++
+Clone do ótimo notepad++ de windows para linux em vers
