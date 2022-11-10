@@ -3,5 +3,5 @@ O Git Bash é um terminal extendido para otimozar o uso do Git.
 
 Link para download do Zettlr, editor markdown opensource disponível no formato appimage: https://www.zettlr.com/download
 
-
+Observar quando uma alteração em cascata vai modificar muitos aqruivos e comentar de maneira adequada ou idealmente fazer alterações menores ou individuais. 
 
