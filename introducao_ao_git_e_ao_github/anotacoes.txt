@@ -1,3 +1,7 @@
-Link para download do GIT https://git-scm.com/downloads
-O Git Bash é um terminal extendido para otimozar o uso do Git
+Link para download do GIT:  https://git-scm.com/downloads
+O Git Bash é um terminal extendido para otimozar o uso do Git. 
+
+Link para download do Zettlr, editor markdown opensource disponível no formato appimage: https://www.zettlr.com/download
+
+
 

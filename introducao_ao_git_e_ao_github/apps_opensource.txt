@@ -1,0 +1,5 @@
+Zettlr, editor markdown: https://www.zettlr.com
+
+appFlowy, alternativa ao Notion: https://www.appflowy.io/
+
+MarkText, editor markdown: https://github.com/marktext/marktext
